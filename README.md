@@ -54,7 +54,7 @@ Logic-Gates/
 ### Waveform Simulation
 
 This waveform verifies the correct functionality of the AND gate using the testbench.
-![Waveform Simulation](images/waveform.png)
+![Waveform Simulation](Waveform.png)
 
 
 ### Design Schematic
