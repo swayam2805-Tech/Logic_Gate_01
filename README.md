@@ -65,7 +65,7 @@ Schematic view generated in Xilinx Vivado showing the AND gate logic.
 ### FPGA Board (Arty A7)
 
 Target hardware platform used for implementation.
-![Arty A7 FPGA](Arty A7 100t.jpg)
+![Arty A7 FPGA](Arty_A7_100t.jpg)
 
 ### Implemented Design
 
