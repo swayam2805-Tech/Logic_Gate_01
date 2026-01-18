@@ -60,17 +60,17 @@ This waveform verifies the correct functionality of the AND gate using the testb
 ### Design Schematic
 
 Schematic view generated in Xilinx Vivado showing the AND gate logic.
-![Design Schematic](images/schematic.png)
+![Design Schematic](Schematic.png)
 
 ### FPGA Board (Arty A7)
 
 Target hardware platform used for implementation.
-![Arty A7 FPGA](images/arty_a7.png)
+![Arty A7 FPGA](Arty A7 100t.jpg)
 
 ### Implemented Design
 
 Final implemented design after synthesis and implementation in Vivado.
-![Implemented Design](images/implementation.png)
+![Implemented Design](Implemented.png)
 
 ## How to Run the Project
 
