@@ -41,9 +41,9 @@ Logic-Gates/
 │   └── and_gate_const.xdc
 │
 ├── images/
-│   ├── waveform.png
-│   ├── schematic.png
-│   ├── arty_a7.png
+│   ├── Waveform.png
+│   ├── Schematic.png
+│   ├── Arty_A7_100t.png
 │   └── implementation.png
 │
 └── README.md
@@ -65,7 +65,7 @@ Schematic view generated in Xilinx Vivado showing the AND gate logic.
 ### FPGA Board (Arty A7)
 
 Target hardware platform used for implementation.
-![Arty A7 FPGA](Arty_A7_100t.png)
+![Arty A7 FPGA](Arty_A7_100t.jpg)
 
 ### Implemented Design
 
